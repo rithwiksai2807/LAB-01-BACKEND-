@@ -11,8 +11,9 @@ app.get("/", (req, res) => {
 // Route 2: About
 app.get("/about", (req, res) => {
   res.status(200).json({
-    name: "YOUR NAME",
-    section: "YOUR SECTION NAME"
+    name: " N. RITHWIK SAI ",
+    section: "111 GEN AI - 2B ",
+    "roll no": "252U1R9125"
   });
 });
 
